@@ -8,6 +8,9 @@
   <li>Laços de Decisões</li>
   <li>Laços de Repetições</li>
   <li>While e For</li>
+  <li>Variaveis</li>
+  <li>Funções</li>
+  
 </ul>
 
 Aulas feitas pela plataforma de ensino Fiap ON
