@@ -34,3 +34,9 @@ def listar(dicionario):
         print("Objeto.......: ")
         print("Login: ", chave)
         print("Dados: ", valor)
+
+
+def salvar(dicionario):
+    with open("3_3_ManipulaArquivos/bancoDeDados.txt", "a") as arquivo:
+        for chave, valor in dicionario.items():
+            arquivo.write(chave + ":" + valor)
