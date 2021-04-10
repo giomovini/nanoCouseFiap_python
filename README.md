@@ -10,7 +10,8 @@
   <li>While e For</li>
   <li>Variaveis</li>
   <li>Funções</li>
+  <li>Manipulação de Arquivos e JSON </li>
   
 </ul>
 
-Aulas feitas pela plataforma de ensino Fiap ON
+Aulas feitas pela plataforma de ensino Fiap ON pela Faculdade de Informatica e Administração Paulista
